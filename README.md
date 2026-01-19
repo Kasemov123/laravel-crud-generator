@@ -295,7 +295,7 @@ If you find this project useful, please consider giving it a star! ⭐
 
 ## 📞 Support
 
-For support, email kasemov123@gmail.com or create an issue on GitHub.
+For support, email kasemov134@gmail.com or create an issue on GitHub.
 
 ---
 
